@@ -10,6 +10,6 @@
 
 **Team members:**
 
-* u269221 - Amadeo Huerta Moncho - amadeu.huerta@estudiant.upf.edu -  https://github.com/amadeohm
+* u269221 - Amadeo Huerta Moncho - amadeu.huerta01@estudiant.upf.edu -  https://github.com/amadeohm
 * u269234 - Sandra Jiménez Vargas - sandra.jimenez04@estudiant.upf.edu -  https://github.com/sandrajivar
 
